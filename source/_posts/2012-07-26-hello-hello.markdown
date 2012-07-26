@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'hello hello'"
+title: "hello hello"
 date: 2012-07-26 10:48
 comments: true
 categories: 
