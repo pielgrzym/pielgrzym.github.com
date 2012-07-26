@@ -9,3 +9,7 @@ categories:
 # Hello world
 
 GHpages y u no build my octopress??
+
+## how about some gist??
+
+{% gist 3146108 %}
