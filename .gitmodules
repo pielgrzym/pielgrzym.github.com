@@ -1,3 +1,6 @@
 [submodule ".themes/slash"]
 	path = .themes/slash
 	url = git://github.com/tommy351/Octopress-Theme-Slash.git
+[submodule ".themes/phase"]
+	path = .themes/phase
+	url = git://github.com/tommy351/octopress-theme-phase.git
