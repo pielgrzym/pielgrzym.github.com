@@ -10,6 +10,10 @@ categories:
 
 GHpages y u no build my octopress??
 
+## uh, oh, does it still work??
+
+Hopefully!
+
 ### A famous quote
 
 Govenor of California:
