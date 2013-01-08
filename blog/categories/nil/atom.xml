@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: nil | Programming for porcupines]]></title>
+  <link href="http://pielgrzym.github.com/blog/categories/nil/atom.xml" rel="self"/>
+  <link href="http://pielgrzym.github.com/"/>
+  <updated>2013-01-08T21:01:25+01:00</updated>
+  <id>http://pielgrzym.github.com/</id>
+  <author>
+    <name><![CDATA[pielgrzym]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://pielgrzym.github.com/blog/2012/07/26/hello-hello/"/>
+    <updated>2012-07-26T10:48:00+02:00</updated>
+    <id>http://pielgrzym.github.com/blog/2012/07/26/hello-hello</id>
+    <content type="html"><![CDATA[<p>This is a hello world and some bits about myself:</p>
+
+<ul>
+<li>I'm a python (django, twisted) programmer</li>
+<li>I'm an admin and great Linux enthusiast</li>
+<li>I'm a shell junkie</li>
+<li>I'm crippled by tiling wm addiction</li>
+<li>I love to code in other languages in my free time: ruby, c, haskell</li>
+<li>I love good tools, mainly: vim, zsh, git and tmux - and others</li>
+</ul>
+
+
+<p>This will be a strictly tech blog - about programming, linux and various tools.
+Now this is akward. Let's move on to some more interesting stuff in other posts.</p>
+]]></content>
+  </entry>
+  
+</feed>
