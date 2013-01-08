@@ -1,34 +1,19 @@
 ---
 layout: post
-title: "hello hello"
+title: "Hello world"
 date: 2012-07-26 10:48
 comments: true
-categories: 
+categories: nil
 ---
 
-# Hello world
+This is a hello world and some bits about myself:
 
-GHpages y u no build my octopress??
+* I'm a python (django, twisted) programmer
+* I'm an admin and great Linux enthusiast
+* I'm a shell junkie
+* I'm crippled by tiling wm addiction
+* I love to code in other languages in my free time: ruby, c, haskell
+* I love good tools, mainly: vim, zsh, git and tmux - and others
 
-## uh, oh, does it still work??
-
-Hopefully!
-
-### A famous quote
-
-Govenor of California:
-> Get out of tha choppah!
-
-Now this is a _various_ formatting __test__ with *a lot* of details and `inline code()`.
-
-We test lists:
-
-1. No no
-2. Yup.
-3. Exit humanity
-  Now this ain't the exit, is it??
-4. Kill zombies.
-
-## how about some gist??
-
-{% gist 3146108 %}
+This will be a strictly tech blog - about programming, linux and various tools.
+Now this is akward. Let's move on to some more interesting stuff in other posts.
